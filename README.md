@@ -1,4 +1,4 @@
-## Translocation of Pāua from Waikouati River Mouth to Butterfly Bay 
+## Translocation of Pāua from Waikouati River Mouth to Butterfly Bay AQFI301 2023 November Trip
 
 By: Kaitlin Olsen, Alexandra Faulkner, Lily Harvey, and Maddison Hafoka 
 
