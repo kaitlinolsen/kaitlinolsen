@@ -1,11 +1,11 @@
 ## Translocation of Pāua from Waikouati River Mouth to Butterfly Bay 
 
-By: Kaitlin Olsen, Alexandara Faulkner, Lily Harvey, and Maddison Hafoka 
+By: Kaitlin Olsen, Alexandra Faulkner, Lily Harvey, and Maddison Hafoka 
 
-This project involved the movement of 120 Blackfoot pāua from Waikouati River Mouth to Butterfly Bay. A population desnity survey was taken prior to translocation for assesment of current population, recording lengths and count. Pāua being translocated the following day were also recorded with the same variables and put into associating release methods. Count of pāua a day after initial translocation was recorded to determine viability of translocation site. 
+This project involved the movement of 120 Blackfoot pāua (Haliotis iris) from Waikouati River Mouth to Butterfly Bay. A population density survey was taken prior to translocation for assessment of the current population, recording lengths and counts across a 30-meter transect line. Pāua being translocated the following day were also recorded with the same variables and put into associating release methods. A count of pāua a day after initial translocation was recorded to determine the viability of the translocation site.  
 
 ## ./data/input/
-- 'population_density_survey.csv': formally 'populationdensitysurvey.xlsx' Quadrat number, meterage surveyed, pāua count in quadrat, and length of all pāua found. Short description of habitat also included. data has been summarised with corresponding ID's to create graph outputs
+- 'population_density_survey.csv': formally 'populationdensitysurvey.xlsx' Quadrat number, meterage surveyed, pāua count in quadrat, and length of all pāua found. A short description of the habitat is also included. data has been summarised with corresponding ID's to create graph outputs
 
 | Code         | Meaning                           |
 |--------------|-----------------------------------|
@@ -13,7 +13,7 @@ This project involved the movement of 120 Blackfoot pāua from Waikouati River M
 | Average Length  | *millimeters*              |
 | Sand Coverage   | *percent*          |
 
-- 'population_density_of_translocated.csv': formally 'populationdensityoftranslocatedpaua.xlsx' length measurements *millimeters* of pāua selected for translocation, release type and associated release number
+- 'population_density_of_translocated.csv': formally 'populationdensityoftranslocatedpaua.xlsx' length measurements *millimetres* of pāua selected for translocation, release type and associated release number
 
 | Code         | Meaning                           |
 |--------------|-----------------------------------|
@@ -24,7 +24,7 @@ This project involved the movement of 120 Blackfoot pāua from Waikouati River M
 |PHP2| Pōhā Release Huriawa Pa bag 2|
 |PHP3|Pōhā Release Huriawa Pa bag 3|
 
-- 'paua_within_2m_radius.csv': formally 'pauafoundwithin2mradiusofrelease.xlsx' number of pāua found within 2m radius of release location
+- 'paua_within_2m_radius.csv': formally 'pauafoundwithin2mradiusofrelease.xlsx' number of pāua found within 2 meter radius of the release location
 
 | Code         | Meaning                           |
 |--------------|-----------------------------------|
