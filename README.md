@@ -2,6 +2,8 @@
 
 By: Kaitlin Olsen, Alexandra Faulkner, Lily Harvey, and Maddison Hafoka 
 
+There are three versions of Pāua translocation this is the version from Waikouati River Mouth, while the other two versions are from Warrington Point (Okahau) and Puketeraki. 
+
 This project involved the translocation of 120 Blackfoot pāua (Haliotis iris) from Waikouati River Mouth (45° 38.301'S, 170° 40.147'E) to Huriawa Pa (Peninsula) Butterfly Bay  (Pinnacles: Marama-i-te-whata & Araki-te-Aararoa) located in Karitane, Otago, New Zealand. A population density survey was taken prior to translocation for assessment of the current population, recording lengths and counts across a 30-meter transect line. Pāua being translocated the following day were also recorded with the same variables and put into associating release methods. There were two types of release methods this included hard release (pāua translocated within a dive catch bag and directly placed onto a rock at the translocated site) and soft release (the use of pōhā made from Southern Bull kelp, where pāua were placed at translocation site with the pōhā) A count of pāua a day after initial translocation was recorded to determine the viability of the translocation site.  
 
 ## ./data/input/
